@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>com.hn.hnproject</string>
 					<key>url</key>
-					<string>http://www.glhmtech.com/hn/hnproject.ipa</string>
+					<string>http://www.glhmtech.com/hn/hn/hnproject.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.glhmtech.com/hn/icon@2x.png</string>
+					<string>http://www.glhmtech.com/hn/hn/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.glhmtech.com/hn/icon.png</string>
+					<string>http://www.glhmtech.com/hn/hn/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
